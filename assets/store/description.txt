@@ -1,0 +1,5 @@
+U ToDo is a Flutter template.
+U ToDo is completely free, with no ads.
+
+Privacy Policy: https://nhancv.github.io/apppolicy/u_todo/PrivacyPolicy.html
+Terms of Service: https://nhancv.github.io/apppolicy/u_todo/TermsofService.html
